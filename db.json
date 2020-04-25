@@ -1,1 +1,43 @@
-
+{
+  "posts": [
+                          {
+                            "id" : 0,
+                            "text" : "My name is Robert.",
+                            "translations" : [
+                              {
+                                "language" : "Swahili",
+                                "id" : 0,
+                                "soundClip" : "None",
+                                "text" : "Jina langu ni Robert Garcia."
+                              },
+                              {
+                                "language" : "Spanish",
+                                "id" : 1,
+                                "soundClip" : "None",
+                                "text" : "Mi nombre es Roberto GARCIA."
+                              }
+                            ]
+                          },
+                          {
+                            "id" : 1,
+                            "text" : "I was a student in Kenya.",
+                            "translations" : [
+                              {
+                                "language" : "Swahili",
+                                "id" : 0,
+                                "soundClip" : "None",
+                                "text" : "Nilikua mawanafunzi huko Kenya."
+                              },
+                              {
+                                "language" : "Spanish",
+                                "id" : 1,
+                                "soundClip" : "None",
+                                "text" : "Yo era un estudiante en Kenia."
+                              }
+                            ]
+                          }
+                        ],
+  "profile": {
+    "name": "typicode"
+  }
+}
